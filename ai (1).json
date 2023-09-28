@@ -1,0 +1,131 @@
+{
+    "intents":[
+    {
+        "tag": "greetings", 
+        "patterns": [
+         "Hello", 
+         "Hi",
+         "How are you",
+         "Good morning",
+         "Top of the morning",
+         "Can I get some help?"
+        ],
+        "responses":[
+        "Hello! I'm a Missa Bot",
+        "Hi there, how can I the Missa Bot help?",
+        "Nice to meet you, how can I help you?",
+        "I Missa bot said hello"
+
+        ]
+
+    },
+    
+        {"tag":"goodbyes",
+        "patterns":[
+            "Thanks for the help", 
+            "Goodbye!",
+            "I'm leaving",
+            "See you later!",
+            "Have a good day!"]
+            ,
+            "responses":[
+                "Take care!",
+                "Thanks for shopping at @Missa",
+                "Hope I helped.",
+                "Glad I was able to help "
+
+            ]
+        },
+        {
+            "tag":"shop",
+            "patterns":[
+                "What products do you sell?",
+                "I want to buy something",
+                "Is there any special deals?",
+                "What do you recommend"],
+            
+                "responses":[
+               "Here at MISSA shop we sell coffee, books, and provide free WIFI", 
+                "Buy one product and get fiffty percent off your next purchase"
+                ,
+                "Use MISSA at checkout to get fiffy percent off",
+                ""
+                
+            ]
+            },
+            {
+            "tag":"payments",
+            "patterns":[
+                "What form of payment do you accept?",
+                "Do you take credit card?", "Do you accept cash"
+            ],
+            "responses":[
+                "We take cash",
+                "We take master card as well",
+                "We accept VISA, Mastercard, and AMEX",
+                "We accept most major credit cards"
+            ]
+
+
+
+            },
+            {
+                "tag": "hours",
+                "patterns":[
+                "What hours are you open ",
+                "What are the hours of operations",
+                "What is the best time to order stuff"
+                ],
+                "responses":[
+                   "We are open nine to five",
+                   "Our hours are 9 AM to 5 PM",
+                   "The best time would be from the ours of operations" 
+                ]},
+
+                {
+                    "tag": "reviews",
+                    "patterns": [
+                        "I want to leave a review",
+                        "I will give MISSA a five out of five"
+                    ],
+                    "responses":[
+                        "Thanks for leaving a review at MISSA",
+                        "If possible, tell us how we can improve here at MISSA"
+                    ]
+
+                }
+
+           
+           
+           
+            
+            
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
