@@ -5,4 +5,5 @@ AI chatbot workshop. The json file can be provided or you can type one yourself 
 
 
 ## JSON file
-![missaparttwo](https://github.com/FrancoRamirezz/AIChatBot/assets/96508706/9e37ec71-9912-4db3-b300-b153333716b9)
+![aibotsmissaslides](https://github.com/FrancoRamirezz/AIChatBot/assets/96508706/0c0a2dff-1d15-4207-995d-788f82496785)
+
