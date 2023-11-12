@@ -1,11 +1,23 @@
 # AIChatBot
-AI chatbot workshop. The json file can be provided or you can type one yourself following the code in the repository. I made two files of the same project, so it is easier if people need the Python file version of it
+This was an intednded  chatbot workshop. The json file can be provided or you can type one yourself following the code in the repository. I made two files of the same project, so it is easier if people need the Python file version of it
  
 
 
 
 ## JSON file
 ![aibotsmissaslides](https://github.com/FrancoRamirezz/AIChatBot/assets/96508706/0c0a2dff-1d15-4207-995d-788f82496785)
+
+
+
+## Neural Network
+Learned the basics of how activation layers work. Also, we discussed what an epoch is and how it work as well
+
+<img width="800" alt="Screenshot 2023-11-12 at 1 45 05 AM" src="https://github.com/FrancoRamirezz/AIChatBot/assets/96508706/cab9b950-d5dc-4e67-9ecd-5c0e76526261">
+
+
+
+
+
 
 ## Installations
 ```bash
