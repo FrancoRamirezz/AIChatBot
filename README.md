@@ -19,8 +19,6 @@ import pickle
 import nltk # this is used for the toolkit fo
 nltk.download('punkt') # make sure to download this part for the tokenzaton part
 nltk.download('all') # use this for the lementazier for all the nlkt downloads
-#import nltk
-#nltk.download('all')
 from nltk.stem import WordNetLemmatizer
 from tensorflow import keras
 import random
